@@ -17,6 +17,6 @@ const tree = {
 };
 
 treeWalk(tree, item => {
-  item.active = false;
+  item.active = true;
 });
 ```
