@@ -6,7 +6,7 @@ npm install cc-tree-walk --save
 ```
 
 #### e.g. walk a tree
-```javascripts
+```javascript
 import treeWalk from "cc-tree-walk";
 
 const tree = {
