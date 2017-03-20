@@ -1,0 +1,24 @@
+{
+  "name": "cc-tree-walk",
+  "version": "1.0.0",
+  "description": "walk a tree from top to bottom, and from left to right then",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterlevel1/cc-tree-walk.git"
+  },
+  "keywords": [
+    "tree",
+    "treeWalker",
+    "walk"
+  ],
+  "author": "cc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterlevel1/cc-tree-walk/issues"
+  },
+  "homepage": "https://github.com/peterlevel1/cc-tree-walk#readme"
+}
