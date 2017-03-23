@@ -1,6 +1,6 @@
 {
   "name": "cc-tree-walk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "walk a tree from top to bottom, and from left to right then",
   "main": "index.js",
   "scripts": {
