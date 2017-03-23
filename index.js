@@ -16,7 +16,7 @@
       else if (typeof obj !== 'object') return typeof obj;
       else {
         var str = toString.call(obj);
-        return str.slice(8, str.length - 1).toLowerCase();
+        return str.slice(8, -1).toLowerCase();
       }
     },
     isWindow: function (node) {
